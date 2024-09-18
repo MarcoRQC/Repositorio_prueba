@@ -1,0 +1,41 @@
+body  {
+
+    background-image: url('Ains.png');
+    background-position: center center;     
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgba(228, 23, 23, 0.5);
+    top:0;
+    left:0;
+    bottom:0;
+    right: 0;
+    opacity: 1.35;
+}
+.titulo {
+
+    color:rgb(111, 0, 255)
+}
+.texto {
+    color: gold;
+}
+.texto2 
+    color:lime
+ body {
+    font-family: Arial, sans-serif;}
+  input { 
+    padding: 10px 20px;
+   
+    border-radius: 5px; 
+    font-size: 16px;
+    margin-right: 10px; 
+}
+button {
+    padding: 10px 20px;
+    background-color: blue;
+    color:rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
